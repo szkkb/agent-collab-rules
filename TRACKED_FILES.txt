@@ -1,6 +1,7 @@
 .gitignore
 AGENTS.md
 CLAUDE.md
+LICENSE
 README.md
 TRACKED_FILES.txt
 scripts/audit-rules.py
