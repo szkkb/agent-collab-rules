@@ -2,6 +2,7 @@
 AGENTS.md
 CLAUDE.md
 LICENSE
+NOTICE
 README.md
 TRACKED_FILES.txt
 scripts/audit-rules.py

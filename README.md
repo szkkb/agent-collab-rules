@@ -13,7 +13,8 @@
 | `scripts/audit-rules.py` | 只读自检：规则体积预算、必需小节是否存在、清单与 Git 跟踪文件是否一致 |
 | `skills/closeout/SKILL.md` | 收尾 skill：按项目现有协议记录成果、更新待办、提交改动 |
 | `TRACKED_FILES.txt` | 已审核的跟踪文件清单，配合默认拒绝的 `.gitignore` 使用 |
-| `LICENSE` | CC0 1.0 Universal 法律文本 |
+| `LICENSE` | CC0 1.0 Universal 法律文本（与 CC 官方 / SPDX 参考文本逐字节一致） |
+| `NOTICE` | 放弃权利的简短声明，便于阅读；不具附加条款效力 |
 
 ## 怎么用
 
