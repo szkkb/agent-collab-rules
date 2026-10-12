@@ -1,0 +1,7 @@
+.gitignore
+AGENTS.md
+CLAUDE.md
+README.md
+TRACKED_FILES.txt
+scripts/audit-rules.py
+skills/closeout/SKILL.md

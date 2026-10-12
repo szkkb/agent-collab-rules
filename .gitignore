@@ -1,0 +1,15 @@
+# Default deny; expand the reviewed manifest before adding new assets.
+/*
+!/.gitignore
+!/AGENTS.md
+!/CLAUDE.md
+!/README.md
+!/TRACKED_FILES.txt
+!/scripts/
+/scripts/*
+!/scripts/audit-rules.py
+!/skills/
+/skills/*
+!/skills/closeout/
+/skills/closeout/*
+!/skills/closeout/SKILL.md
